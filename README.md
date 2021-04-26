@@ -12,3 +12,10 @@ python bootstart.py
 ```
 
 all dataset are inluded in the repository
+
+
+## Documentation
+The doucmentation is created usng jupyter notebook. Read the  [docuemntation here](documentation.ipynb).
+
+If you prefer the html version read it over [here](documentation.html)
+
