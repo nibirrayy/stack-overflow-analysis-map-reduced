@@ -1,9 +1,11 @@
 """"
+Corresponding Reducer code : job_stats.py
 
+Problem statement: Which is the most common job according to stack overflow developer survey
 """
 
 import sys
-import csv
+import csv # Importing the csc module because of the structure of the the dataset and the column that is required
 
 next(sys.stdin)
 

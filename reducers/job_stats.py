@@ -1,5 +1,18 @@
+""""
+Corresponding Mapper code : job_stats.py
+
+Problem statement: Which is the most common job according to stack overflow developer survey.
+"""
+
+
 import sys
 
+"""
+What is the logic?
+
+We are using emplty list. When we get data from STDIN we check if the entry is in the dict. If yes we just increment it and if not then create a 
+new entry.
+"""
 jobs = {
 
 }
